@@ -1,3 +1,15 @@
+nbproject
+bin
+build
+dist
+private
+nbproject
+build.xml
+manifest.mf
+.classpath
+.project
+manifest.mf
+build-before-profiler.xml
 gr13.out
 gr13.exe
 gr13.o
