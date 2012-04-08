@@ -1,19 +1,10 @@
-/*******************
-Allegro Newbie Tutorial
-
-by
-LoomSoft
-
-http://loomsoft.net
-email: jay@loomsoft.net
-*******************/
-/* Allegro Newbie Tutorial : Lesson 6 - Using Timers
+/**
  *
- * In this lesson we will learn how to use timers in order 
- * to make Allegro programs run at the same speed on any system
- */
+ * Grobin - Platform game starring Robin May
+ *
+ **/
 
-#include <allegro.h> // You must include the Allegro Header file
+#include <allegro.h>
 #include <cmath>
 #include <iostream>
 using namespace std;
